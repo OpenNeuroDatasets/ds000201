@@ -1,7 +1,7 @@
 {
    "AcquisitionDuration": 357.000096, 
    "EchoTrainLength": 1, 
-   "EffectiveEchoSpacing": 0.632, 
+   "EffectiveEchoSpacing": 0.000632, 
    "FlipAngle": 90, 
    "GEImageTypeRIMPCode": 0, 
    "ImageType": "ORIGINAL/PRIMARY/OTHER", 
