@@ -23,7 +23,8 @@
     "Funding": "",
     "ReferencesAndLinks": [
         "http://www.stressforskning.su.se/polopoly_fs/1.238736.1433421769!/menu/standard/file/Sandra%20SSC%202014.pdf",
-        "https://osf.io/bxfsb/"
+        "https://osf.io/bxfsb/",
+        "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.181704"
     ],
     "DatasetDOI": "10.18112/openneuro.ds000201.v1.0.1",
     "BIDSVersion": "1.0.2",
