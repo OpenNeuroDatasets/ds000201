@@ -35,10 +35,7 @@ Revision history for OpenfMRI dataset ds000201 (Stockholm SleepyBrain Study)
   - Updated README
   - Updated and renamed task-workingmemorytest.json
  
-1.0.3 2016-10-16
-
-  - Added a note to README mentioning that polysomnography data is available upon request 
-from the submitter
-
+1.0.3 2020-02-18
+  - Added 'faces' task data
 1.0.2 2019-04-24
   - Fixed unit conversion error for EffectiveEchoSpacing in dwi.json
