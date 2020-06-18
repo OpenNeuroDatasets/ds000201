@@ -1,0 +1,12 @@
+{
+    "Columns": {
+        "Column 1": "Time, minutes",
+        "Column 2": "Filtered EMG signal from major zygomatic muscle, mV",
+        "Column 3": "Filtered EMG signal from superciliary corrugator muscle, mV",
+        "Column 4": "Average rectified EMG from major zygomatic muscle, mV",
+        "Column 5": "Average rectified EMG from superciliary corrugator muscle, mV",
+        "Column 6": "Reference channel for neutral stimulus onsets",
+        "Column 7": "Reference channel for happy stimulus onsets",
+        "Column 8": "Reference channel for angry stimulus onsets"
+    }
+}
